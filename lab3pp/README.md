@@ -57,7 +57,7 @@
 
 ### График  
 
-![График](lab3_graph.png)
+![График](lab3_graph.png.png)
 
 ---
 
