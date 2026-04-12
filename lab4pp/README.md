@@ -43,7 +43,7 @@
 
 ### График  
 
-![График](cuda_graph.png)
+![График](cuda_graph.jpg)
 
 ---
 
